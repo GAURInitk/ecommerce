@@ -43,8 +43,7 @@ python manage.py runserver
 
 ## 🚀 To Improve
 
-- 💳 Add payment gateway (e.g., Stripe, Razorpay)  
-- 🎨 Improve UI with TailwindCSS or Bootstrap  
+- 💳 Add payment gateway (e.g., Stripe, Razorpay)   
 - ☁️ Deploy to cloud (Render, Heroku, etc.)  
 - 🧪 Add tests and CI workflows  
 
